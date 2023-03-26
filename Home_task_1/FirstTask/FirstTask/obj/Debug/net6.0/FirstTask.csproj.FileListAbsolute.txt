@@ -1,0 +1,15 @@
+E:\учёба\Sigma Software University .NET Camp\Homework_For_27_03_2023\FirstTask\bin\Debug\net6.0\FirstTask.exe
+E:\учёба\Sigma Software University .NET Camp\Homework_For_27_03_2023\FirstTask\bin\Debug\net6.0\FirstTask.deps.json
+E:\учёба\Sigma Software University .NET Camp\Homework_For_27_03_2023\FirstTask\bin\Debug\net6.0\FirstTask.runtimeconfig.json
+E:\учёба\Sigma Software University .NET Camp\Homework_For_27_03_2023\FirstTask\bin\Debug\net6.0\FirstTask.dll
+E:\учёба\Sigma Software University .NET Camp\Homework_For_27_03_2023\FirstTask\bin\Debug\net6.0\ref\FirstTask.dll
+E:\учёба\Sigma Software University .NET Camp\Homework_For_27_03_2023\FirstTask\bin\Debug\net6.0\FirstTask.pdb
+E:\учёба\Sigma Software University .NET Camp\Homework_For_27_03_2023\FirstTask\obj\Debug\net6.0\FirstTask.csproj.AssemblyReference.cache
+E:\учёба\Sigma Software University .NET Camp\Homework_For_27_03_2023\FirstTask\obj\Debug\net6.0\FirstTask.GeneratedMSBuildEditorConfig.editorconfig
+E:\учёба\Sigma Software University .NET Camp\Homework_For_27_03_2023\FirstTask\obj\Debug\net6.0\FirstTask.AssemblyInfoInputs.cache
+E:\учёба\Sigma Software University .NET Camp\Homework_For_27_03_2023\FirstTask\obj\Debug\net6.0\FirstTask.AssemblyInfo.cs
+E:\учёба\Sigma Software University .NET Camp\Homework_For_27_03_2023\FirstTask\obj\Debug\net6.0\FirstTask.csproj.CoreCompileInputs.cache
+E:\учёба\Sigma Software University .NET Camp\Homework_For_27_03_2023\FirstTask\obj\Debug\net6.0\FirstTask.dll
+E:\учёба\Sigma Software University .NET Camp\Homework_For_27_03_2023\FirstTask\obj\Debug\net6.0\ref\FirstTask.dll
+E:\учёба\Sigma Software University .NET Camp\Homework_For_27_03_2023\FirstTask\obj\Debug\net6.0\FirstTask.pdb
+E:\учёба\Sigma Software University .NET Camp\Homework_For_27_03_2023\FirstTask\obj\Debug\net6.0\FirstTask.genruntimeconfig.cache
