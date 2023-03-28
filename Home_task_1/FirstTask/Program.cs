@@ -1,6 +1,6 @@
 ﻿using System;
 namespace FirstTask
-{
+{//Вітаю. Перше завдання по створенню репозиторію Ви виконали.
     class SpiralMatrix
     {
         public enum SpiralDirection
