@@ -2,7 +2,8 @@
 namespace FirstTask
 {
     class SpiralMatrix
-    {
+    {//Вітаю. Перше завдання по створенню репозиторію Ви виконали.
+        
         public enum SpiralDirection
         {
             Clockwise,
