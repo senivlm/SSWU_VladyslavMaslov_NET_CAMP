@@ -2,7 +2,8 @@
 namespace SecondTask
 {
     class Program
-    {
+    {// домовлялися, що будем мислити об'єктно -зорієнтовано!!!!
+        // Алгоритмічно все добре.
         static void Main()
         {
             Console.WriteLine("Do you want to enter the matrix elements manually? (Y/N)");
