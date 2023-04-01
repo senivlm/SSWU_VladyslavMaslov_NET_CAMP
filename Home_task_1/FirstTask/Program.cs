@@ -18,7 +18,7 @@ namespace FirstTask
             int rowStart = 0, colStart = 0;
 
             while (rowStart <= rowLimit && colStart <= colLimit)
-            {
+            {// Краще здійснювати цю перевірку поза циклом. Не оптимально розв'язано.
                 if (direction == SpiralDirection.Clockwise)
                 {
                     for (int i = colStart; i <= colLimit; i++)
