@@ -1,0 +1,16 @@
+C:\Users\Emil_\source\repos\strings\bin\Debug\strings.exe.config
+C:\Users\Emil_\source\repos\strings\bin\Debug\strings.exe
+C:\Users\Emil_\source\repos\strings\bin\Debug\strings.pdb
+C:\Users\Emil_\source\repos\strings\obj\Debug\strings.csproj.AssemblyReference.cache
+C:\Users\Emil_\source\repos\strings\obj\Debug\strings.csproj.SuggestedBindingRedirects.cache
+C:\Users\Emil_\source\repos\strings\obj\Debug\strings.csproj.CoreCompileInputs.cache
+C:\Users\Emil_\source\repos\strings\obj\Debug\strings.exe
+C:\Users\Emil_\source\repos\strings\obj\Debug\strings.pdb
+E:\учёба\Sigma Software University .NET Camp\Homework_For_04_04_2023\strings\bin\Debug\strings.exe.config
+E:\учёба\Sigma Software University .NET Camp\Homework_For_04_04_2023\strings\bin\Debug\strings.exe
+E:\учёба\Sigma Software University .NET Camp\Homework_For_04_04_2023\strings\bin\Debug\strings.pdb
+E:\учёба\Sigma Software University .NET Camp\Homework_For_04_04_2023\strings\obj\Debug\strings.csproj.AssemblyReference.cache
+E:\учёба\Sigma Software University .NET Camp\Homework_For_04_04_2023\strings\obj\Debug\strings.csproj.SuggestedBindingRedirects.cache
+E:\учёба\Sigma Software University .NET Camp\Homework_For_04_04_2023\strings\obj\Debug\strings.csproj.CoreCompileInputs.cache
+E:\учёба\Sigma Software University .NET Camp\Homework_For_04_04_2023\strings\obj\Debug\strings.exe
+E:\учёба\Sigma Software University .NET Camp\Homework_For_04_04_2023\strings\obj\Debug\strings.pdb
