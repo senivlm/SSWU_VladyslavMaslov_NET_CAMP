@@ -1,0 +1,22 @@
+[
+    {
+        "apartmentNumber": 1,
+        "address": "вул. Пушкіна, 10",
+        "ownerSurname": "Іванов"
+    },
+    {
+        "apartmentNumber": 2,
+        "address": "вул. Лесі Українки, 15",
+        "ownerSurname": "Петров"
+    },
+    {
+        "apartmentNumber": 3,
+        "address": "вул. Шевченка, 20",
+        "ownerSurname": "Сидоров"
+    },
+    {
+        "apartmentNumber": 4,
+        "address": "вул. Пилипа Орлика, 20",
+        "ownerSurname": "Симонов"
+    }
+]

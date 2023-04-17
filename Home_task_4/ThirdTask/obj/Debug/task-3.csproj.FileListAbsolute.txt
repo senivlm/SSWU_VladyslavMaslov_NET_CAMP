@@ -1,0 +1,12 @@
+C:\Users\Emil_\Desktop\some_shit_with_signalR\task-3\bin\Debug\task-3.exe.config
+C:\Users\Emil_\Desktop\some_shit_with_signalR\task-3\bin\Debug\task-3.exe
+C:\Users\Emil_\Desktop\some_shit_with_signalR\task-3\bin\Debug\task-3.pdb
+C:\Users\Emil_\Desktop\some_shit_with_signalR\task-3\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Emil_\Desktop\some_shit_with_signalR\task-3\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Emil_\Desktop\some_shit_with_signalR\task-3\obj\Debug\task-3.csproj.AssemblyReference.cache
+C:\Users\Emil_\Desktop\some_shit_with_signalR\task-3\obj\Debug\task-3.csproj.SuggestedBindingRedirects.cache
+C:\Users\Emil_\Desktop\some_shit_with_signalR\task-3\obj\Debug\task-3.csproj.CoreCompileInputs.cache
+C:\Users\Emil_\Desktop\some_shit_with_signalR\task-3\obj\Debug\task-3.csproj.CopyComplete
+C:\Users\Emil_\Desktop\some_shit_with_signalR\task-3\obj\Debug\task-3.exe
+C:\Users\Emil_\Desktop\some_shit_with_signalR\task-3\obj\Debug\task-3.pdb
+C:\Users\Emil_\Desktop\some_shit_with_signalR\task-3\bin\Debug\ConsoleTableExt.dll

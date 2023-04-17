@@ -1,0 +1,74 @@
+[
+    {
+        "apartmentId": 1,
+        "quarterNumber": 1,
+        "startMeterReading": 1000,
+        "endMeterReading": 1200,
+        "withdrawalOfIndicatorsDate_1": "2023-01-05T00:00:00",
+        "withdrawalOfIndicatorsDate_2": "2023-02-05T00:00:00",
+        "withdrawalOfIndicatorsDate_3": "2023-03-05T00:00:00"
+    },
+    {
+        "apartmentId": 2,
+        "quarterNumber": 1,
+        "startMeterReading": 800,
+        "endMeterReading": 1000,
+        "withdrawalOfIndicatorsDate_1": "2023-01-07T00:00:00",
+        "withdrawalOfIndicatorsDate_2": "2023-02-07T00:00:00",
+        "withdrawalOfIndicatorsDate_3": "2023-03-07T00:00:00"
+    },
+    {
+        "apartmentId": 3,
+        "quarterNumber": 1,
+        "startMeterReading": 1200,
+        "endMeterReading": 1400,
+        "withdrawalOfIndicatorsDate_1": "2023-01-10T00:00:00",
+        "withdrawalOfIndicatorsDate_2": "2023-02-10T00:00:00",
+        "withdrawalOfIndicatorsDate_3": "2023-03-10T00:00:00"
+    },
+    {
+        "apartmentId": 4,
+        "quarterNumber": 1,
+        "startMeterReading": 1200,
+        "endMeterReading": 1200,
+        "withdrawalOfIndicatorsDate_1": "2023-01-10T00:00:00",
+        "withdrawalOfIndicatorsDate_2": "2023-02-10T00:00:00",
+        "withdrawalOfIndicatorsDate_3": "2023-03-10T00:00:00"
+    },
+    {
+        "apartmentId": 1,
+        "quarterNumber": 2,
+        "startMeterReading": 1200,
+        "endMeterReading": 1400,
+        "withdrawalOfIndicatorsDate_1": "2023-04-05T00:00:00",
+        "withdrawalOfIndicatorsDate_2": "2023-05-05T00:00:00",
+        "withdrawalOfIndicatorsDate_3": "2023-06-05T00:00:00"
+    },
+    {
+        "apartmentId": 2,
+        "quarterNumber": 2,
+        "startMeterReading": 1000,
+        "endMeterReading": 1200,
+        "withdrawalOfIndicatorsDate_1": "2023-04-07T00:00:00",
+        "withdrawalOfIndicatorsDate_2": "2023-05-07T00:00:00",
+        "withdrawalOfIndicatorsDate_3": "2023-06-07T00:00:00"
+    },
+    {
+        "apartmentId": 3,
+        "quarterNumber": 2,
+        "startMeterReading": 1400,
+        "endMeterReading": 1600,
+        "withdrawalOfIndicatorsDate_1": "2023-04-10T00:00:00",
+        "withdrawalOfIndicatorsDate_2": "2023-05-10T00:00:00",
+        "withdrawalOfIndicatorsDate_3": "2023-06-10T00:00:00"
+    },
+    {
+        "apartmentId": 4,
+        "quarterNumber": 2,
+        "startMeterReading": 1200,
+        "endMeterReading": 1200,
+        "withdrawalOfIndicatorsDate_1": "2023-04-10T00:00:00",
+        "withdrawalOfIndicatorsDate_2": "2023-05-10T00:00:00",
+        "withdrawalOfIndicatorsDate_3": "2023-06-10T00:00:00"
+    }
+]
