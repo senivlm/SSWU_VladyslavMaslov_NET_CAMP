@@ -31,7 +31,7 @@ namespace strings
                     words[i] = replacement;
                 }
             }
-
+// Ви загубили початкову конфігурацію пробільних символів.
             return string.Join(" ", words);
         }
 
