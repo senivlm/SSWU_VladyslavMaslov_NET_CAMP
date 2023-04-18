@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace task.Model
 {
     public class Shell
-    {
+    {// Порушена інкапсуляція класу!!!!
         public List<WaterTower> waterTowerList;
         public List<User> users;
 
