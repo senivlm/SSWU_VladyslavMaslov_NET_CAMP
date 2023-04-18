@@ -6,7 +6,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace strings
-{
+{// Ми домовлялись, що клас Program у нас не розв'язує задачі, а делегує розв'язування в інші класи(((.
     internal class Program
     {
         static void SecondSub(string text, string sub)
@@ -30,8 +30,9 @@ namespace strings
             }
         }
         static int CountWordsStartingWithUpperCase(string text)
-        {
+        {//У загальному випадку слово має ширший сенс. Це набір непробільних символів між пробільними.  
             int wordCount = 0;
+            // Це вважається поганим тоном іменувати ідентифікатор, починаючи з new.
             bool newWord = true; // flag indicating the start of a new word
             foreach (char c in text)
             {
