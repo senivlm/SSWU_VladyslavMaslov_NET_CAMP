@@ -5,9 +5,9 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace task.Model
-{
+{// А як забрати воду користувачеві?
     public class WaterTower
-    {
+    {// властивості з великої літери.
         public int maxVolume { get; private set; }
         public int currentVolume { get; private set; }
         //public bool isPumpOn { get;private set; }
