@@ -3,7 +3,7 @@
 namespace task_2.Models
 {
     public class Department
-    {
+    {// якщо є департамент в такому вигляді, як у Вас. то вже нема необхідності в Subdepartment. Ще не до кінця відчуваєте ієрархічні структури. але видно, що по візуалізаці зроблено величезну роботу.
         public string DepartmentName { get; set; }
         public List<Product> Products { get; set; }
         public List<Department> DepartmentList { get; set; }
