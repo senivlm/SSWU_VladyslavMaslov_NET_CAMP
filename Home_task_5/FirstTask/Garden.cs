@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Drawing;
 
 class Garden
-{
+{// Ви правильно реалізували алгоритм
     public static void Demo()
     {
         Console.WriteLine("Enter the number of trees in the first garden");
