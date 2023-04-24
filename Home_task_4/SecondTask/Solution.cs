@@ -29,7 +29,7 @@ namespace task2
         public static List<string> FindEmailsAndAtWords(string text)
         {
             List<string> results = new List<string>();
-
+//У цій задачі по
             // Регулярний вираз для визначення електронних адрес
             string emailPattern = @"\b[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Z]{2,}\b";
             Regex emailRegex = new Regex(emailPattern);
