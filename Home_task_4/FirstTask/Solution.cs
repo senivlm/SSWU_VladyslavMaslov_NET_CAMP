@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace task_1
-{
+{// не об'єктно-зорієнтовано мислите. І розв'язуєте простішу задачу, ніж я визначила. У вас на вході мала бути не одна стрічка, а кілька стрічок, які не можна зливати в одну.
     public static class Solution
     {
         public static void Demo()
