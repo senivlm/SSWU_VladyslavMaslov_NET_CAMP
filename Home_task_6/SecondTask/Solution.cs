@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 
 namespace Task_2
-{
+{// прошу переробити це завдання. Ви залишались і бачили, як це потрібно було зробити. Прозвітуйте індивідуально!!!
     public static class Solution
     {
         //метод для демонстрации
