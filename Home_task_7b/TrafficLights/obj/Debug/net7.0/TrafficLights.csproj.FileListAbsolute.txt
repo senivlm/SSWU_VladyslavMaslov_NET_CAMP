@@ -1,0 +1,15 @@
+/Users/antonshcherbak/RiderProjects/TrafficLights/TrafficLights/bin/Debug/net7.0/TrafficLights
+/Users/antonshcherbak/RiderProjects/TrafficLights/TrafficLights/bin/Debug/net7.0/TrafficLights.deps.json
+/Users/antonshcherbak/RiderProjects/TrafficLights/TrafficLights/bin/Debug/net7.0/TrafficLights.runtimeconfig.json
+/Users/antonshcherbak/RiderProjects/TrafficLights/TrafficLights/bin/Debug/net7.0/TrafficLights.dll
+/Users/antonshcherbak/RiderProjects/TrafficLights/TrafficLights/bin/Debug/net7.0/TrafficLights.pdb
+/Users/antonshcherbak/RiderProjects/TrafficLights/TrafficLights/obj/Debug/net7.0/TrafficLights.csproj.AssemblyReference.cache
+/Users/antonshcherbak/RiderProjects/TrafficLights/TrafficLights/obj/Debug/net7.0/TrafficLights.GeneratedMSBuildEditorConfig.editorconfig
+/Users/antonshcherbak/RiderProjects/TrafficLights/TrafficLights/obj/Debug/net7.0/TrafficLights.AssemblyInfoInputs.cache
+/Users/antonshcherbak/RiderProjects/TrafficLights/TrafficLights/obj/Debug/net7.0/TrafficLights.AssemblyInfo.cs
+/Users/antonshcherbak/RiderProjects/TrafficLights/TrafficLights/obj/Debug/net7.0/TrafficLights.csproj.CoreCompileInputs.cache
+/Users/antonshcherbak/RiderProjects/TrafficLights/TrafficLights/obj/Debug/net7.0/TrafficLights.dll
+/Users/antonshcherbak/RiderProjects/TrafficLights/TrafficLights/obj/Debug/net7.0/refint/TrafficLights.dll
+/Users/antonshcherbak/RiderProjects/TrafficLights/TrafficLights/obj/Debug/net7.0/TrafficLights.pdb
+/Users/antonshcherbak/RiderProjects/TrafficLights/TrafficLights/obj/Debug/net7.0/TrafficLights.genruntimeconfig.cache
+/Users/antonshcherbak/RiderProjects/TrafficLights/TrafficLights/obj/Debug/net7.0/ref/TrafficLights.dll
