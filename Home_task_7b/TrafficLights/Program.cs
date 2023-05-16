@@ -12,6 +12,7 @@ public class Program
             Console.Clear();
             Console.Write("Set delay:");
             var s = Console.ReadLine();
+            // Ви ж не перевіряєте булівську змінну. Тому могли просто парсити
             Int32.TryParse(s, out delay);
         }
         
@@ -28,7 +29,7 @@ public class Program
         var lights = new TrafficLights.TrafficLights(directions, delay);
 
         while (time-- > 0)
-        {
+        {// Порушення принципу Єдиної відповідальності.
             lights.RunTrafficAndPrint(new TrafficLightsPrinter(lights));
         }
     }
