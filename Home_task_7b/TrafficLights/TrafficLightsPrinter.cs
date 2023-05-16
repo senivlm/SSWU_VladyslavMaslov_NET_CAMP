@@ -1,5 +1,5 @@
 namespace TrafficLights;
-
+// З проєктуванням просто біда. Спробуйте подивитись на програми колег
 public class TrafficLightsPrinter : ITrafficLightsPrinter
 {
     private readonly TrafficLights _trafficLights;
